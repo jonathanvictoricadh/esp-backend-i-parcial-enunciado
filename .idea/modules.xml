@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-catalog/api-catalog.iml" filepath="$PROJECT_DIR$/api-catalog/api-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-movie/api-movie.iml" filepath="$PROJECT_DIR$/api-movie/api-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-serie/api-serie.iml" filepath="$PROJECT_DIR$/api-serie/api-serie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/examen-esp-back-i.iml" filepath="$PROJECT_DIR$/.idea/examen-esp-back-i.iml" />
+    </modules>
+  </component>
+</project>
