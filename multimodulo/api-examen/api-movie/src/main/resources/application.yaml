@@ -8,7 +8,10 @@ spring:
     url: jdbc:mysql://localhost:3306/movie-dev
     username: usr-movie
     password: pwd-movie
-
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
 #Si quiere que ejecute con H2 y no con SQL descomente lo sigueinte, y comente el datasource anterior
 #  jpa:
 #    hibernate.ddl-auto: update
